@@ -1,0 +1,119 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Title Section */
+
+#title-bar {
+  text-align: center;
+  padding: 10%;
+  height: 100vh;
+  background: #0f2027;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.menubar {
+  background: #0f2027;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.menu-color {
+  color: #d3cce3 !important;
+}
+
+h4 {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  color: azure;
+}
+
+.job-title {
+  color: azure;
+  font-size: 1.2rem;
+}
+
+.namebrand {
+  font-family: "Sacramento", cursive;
+  font-size: 2rem;
+  color: #d3cce3 !important;
+}
+
+.profile-img {
+  padding: 5% 5% 3%;
+}
+
+/* About Section */
+
+#about {
+  padding: 7% 12%;
+  background: #ece9e6;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffffff, #ece9e6);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #ece9e6);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.icon {
+  display: inline-block;
+}
+
+/* Experience Section */
+
+#experience {
+  padding: 5% 12%;
+  background: #ffeeee;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ddefbb, #ffeeee);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ddefbb, #ffeeee);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Education Section */
+#education {
+  padding: 5% 10% 5% 12%;
+  background: #ece9e6;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffffff, #ece9e6);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #ece9e6);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Skills & Volunteering Section  */
+#skills {
+  padding: 5% 10% 5% 12%;
+  background: #ffeeee;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ddefbb, #ffeeee);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ddefbb, #ffeeee);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Footer Section */
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+  background: #0f2027;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.social-icons {
+  margin: 0 2%;
+}
